@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helloukey/myMovies.git"
+    "url": "git+https://github.com/adibpathan/mymovies.git"
   },
   "keywords": [
     "mymovies",
@@ -28,10 +28,6 @@
     "movie",
     "app"
   ],
-  "author": "Kunal Ukey",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/helloukey/myMovies/issues"
-  },
-  "homepage": "https://github.com/helloukey/myMovies#readme"
+  "author": "Adib Pathan",
+  "license": "ISC"
 }
